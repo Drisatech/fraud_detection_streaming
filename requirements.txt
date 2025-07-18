@@ -1,8 +1,6 @@
 fastapi
 uvicorn
+confluent-kafka
 scikit-learn
-pandas
 joblib
-kafka-python
-azure-eventhub
-azure-identity
+pandas
