@@ -228,9 +228,3 @@ Tech Stack	Python, FastAPI, Kafka, Azure, Docker
 Deployment	Azure Web App for Containers
 Outcome	Fully functional real-time prediction pipeline
 
-
-
----
-
-Would you like me to create a short version of this README (1-page summary style) you can use as a portfolio landing section or GitHub profile highlight?
-
